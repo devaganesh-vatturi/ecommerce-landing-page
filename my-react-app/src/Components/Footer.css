@@ -1,0 +1,19 @@
+.fakefotter-end{
+    height: 150px;
+    width:100vw;
+    background-color: #1f2525;
+    color:white;
+    text-align: center;
+    margin-top: 100px;
+    background-color: black;
+}
+#fakefot-paragraph{
+    font-size:3rem;
+    font-weight:bold;
+    background-color: #1f2525;
+    color:white;
+}
+#fakefot-copy{
+    background-color: #1f2525;
+    color:white;
+}
